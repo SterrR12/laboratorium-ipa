@@ -4,10 +4,10 @@
 
 ## Tahap 0 — Persiapan
 
-**Status:** 🟡 In Progress · **Progres:** 2/4
+**Status:** 🟡 In Progress · **Progres:** 3/4
 
 - [x] T-001 — Konfirmasi alur akun siswa dan guru · ✅ Done · Guru/Siswa mengajukan akun sendiri; Admin memverifikasi dan menyetujui
-- [ ] T-002 — Buat repository GitHub · ⬜ Planned · Tentukan nama repository
+- [x] T-002 — Buat repository GitHub · ✅ Done · `SterrR12/laboratorium-ipa`
 - [ ] T-003 — Buat project Supabase · ⬜ Planned · Periksa kuota paket
 - [x] T-004 — Siapkan struktur folder · ✅ Done · Mengikuti `ARCHITECTURE.md`
 
