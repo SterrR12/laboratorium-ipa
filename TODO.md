@@ -8,7 +8,7 @@
 
 - [x] T-001 — Konfirmasi alur akun siswa dan guru · ✅ Done · Guru/Siswa mengajukan akun sendiri; Admin memverifikasi dan menyetujui
 - [x] T-002 — Buat repository GitHub · ✅ Done · `SterrR12/laboratorium-ipa`
-- [ ] T-003 — Buat project Supabase · ⬜ Planned · Periksa kuota paket
+- [ ] T-003 — Buat project Supabase · 🟡 In Progress · Organisasi Free sudah dibuat; menunggu password database diisi langsung di Supabase
 - [x] T-004 — Siapkan struktur folder · ✅ Done · Mengikuti `ARCHITECTURE.md`
 
 ## Tahap 1 — Kerangka UI
