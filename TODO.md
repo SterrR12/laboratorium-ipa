@@ -4,11 +4,11 @@
 
 ## Tahap 0 — Persiapan
 
-**Status:** 🟡 In Progress · **Progres:** 3/4
+**Status:** ✅ Done · **Progres:** 4/4
 
 - [x] T-001 — Konfirmasi alur akun siswa dan guru · ✅ Done · Guru/Siswa mengajukan akun sendiri; Admin memverifikasi dan menyetujui
 - [x] T-002 — Buat repository GitHub · ✅ Done · `SterrR12/laboratorium-ipa`
-- [ ] T-003 — Buat project Supabase · 🟡 In Progress · Organisasi Free sudah dibuat; menunggu password database diisi langsung di Supabase
+- [x] T-003 — Buat project Supabase · ✅ Done · Menggunakan project aktif `SterrR12` (Sydney) sesuai pilihan pengguna
 - [x] T-004 — Siapkan struktur folder · ✅ Done · Mengikuti `ARCHITECTURE.md`
 
 ## Tahap 1 — Kerangka UI
