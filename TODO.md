@@ -13,10 +13,10 @@
 
 ## Tahap 1 — Kerangka UI
 
-**Status:** 🟡 In Progress · **Progres:** 1/2
+**Status:** ✅ Done · **Progres:** 2/2
 
 - [x] T-005 — Buat layout responsif · ✅ Done · Mengikuti `DESIGN.md`
-- [ ] T-006 — Buat halaman login dan dashboard awal · 🟡 In Progress · Data dummy diberi label
+- [x] T-006 — Buat halaman login dan dashboard awal · ✅ Done · Form login dan pengajuan masih pratinjau; belum tersambung ke Supabase
 
 ## Tahap 2 — Autentikasi dan akses
 
